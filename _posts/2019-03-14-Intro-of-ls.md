@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 解析 ls -l 显示列表含义
-categories: ux
+categories: [tech, Linux]
 keywords: Linux
 prism: bash
 ---
