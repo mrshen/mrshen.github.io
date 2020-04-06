@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Journey in Taiwan
-categories: [Journey, Taiwan]
+categories: Journey
 keywords: journey, taiwan
 ---
 
