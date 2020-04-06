@@ -65,20 +65,20 @@ navs:
     label           : 首页
 
   -
-    href            : /categories/
-    label           : 分类
-
-# -
-#   href            : /archives/
-#   label           : 归档
+    href            : /tech/
+    label           : 技术笔记
 
   -
-    href            : /wiki/
-    label           : 维基
+    href            : /journey/
+    label           : 旅行
 
   -
-    href            : /links/
-    label           : 链接
+    href            : /foods/
+    label           : 美食
+
+  -
+    href            : /thoughts/
+    label           : 感想
 
   -
     href            : /about/
