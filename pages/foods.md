@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Links
-description: 没有链接的博客是孤独的
+title: Foods
+description: 唯美食与爱不可辜负
 comments: false
 canvas: true
-menu: 链接
-permalink: /links/
+menu: 美食
+permalink: /foods/
 ---
 
 <div>

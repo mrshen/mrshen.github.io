@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Wiki
-description: 人越学越觉得自己无知，这里存放了许多琐碎的知识点，食之无味弃之可惜
-menu: 维基
+title: Journey
+description:世界这么大，你该跟爱的人一起去看看 
+menu: 旅行
 repositories: false
 share: false
 comments: false
 categories: true
 calendar: true
 canvas: true
-permalink: /wiki/
+permalink: /journey/
 ---
 
 {% assign sorted_categories = site.wiki | map: "categories" | sort | uniq %}

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Categories
-description: 哈哈，你找到了我的文章基因库。
+title: Technology
+description: 技术不只是工具，也可以是玩具
 keywords: 分类
 comments: false
 share: false
