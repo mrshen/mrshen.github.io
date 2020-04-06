@@ -49,12 +49,12 @@ plugins:
 #   - jekyll-html-pipeline                  #
 #   - jekyll-mentions                       # 用于 @github 用户
 collections:
-  wiki:
+  journey:
     output          : true
-    permalink       : /wiki/:path.html
-  design-mode: 
-    output          : true
-    permalink       : /design-mode/:path.html
+    permalink       : /journey/:path.html
+  # design-mode: 
+  #   output          : true
+  #   permalink       : /design-mode/:path.html
 
 
 
