@@ -63,9 +63,9 @@
         <span style="margin-bottom: 1.5rem;font-size: 0.7rem;color: #333">本站文章均为原创，如欲转载，请于文首附上原文地址</span><br/>
         <h3 class="post-directory-title">Post Categories</h3>
         <div class="sidebar-model-wrapper">
-            {% assign sorted_categories = site.tech | sort %}
+            {% assign sorted_categories = site.categories | sort %}
             {% for category in sorted_categories %}
-                <a class="category-tag" href="/tech/#{{ category[0] }}">{{ category | first }}<span class="badge">{{ category[1].size }}</span></a>
+                <a class="category-tag" href="/categories/#{{ category[0] }}">{{ category | first }}<span class="badge">{{ category[1].size }}</span></a>
             {% endfor %}
         </div>
     {% else %}

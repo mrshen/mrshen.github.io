@@ -9,7 +9,7 @@ repositories: false
 categories: true
 canvas: true
 menu: 技术
-permalink: /tech/
+permalink: /categories/
 ---
 
 <div>
