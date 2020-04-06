@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: page
 title: Journey
 description:世界这么大，你该跟爱的人一起去看看 
 menu: 旅行
