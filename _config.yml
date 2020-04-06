@@ -48,10 +48,10 @@ plugins:
   - jekyll-seo-tag                          # 自动 SEO 头信息生成
 #   - jekyll-html-pipeline                  #
 #   - jekyll-mentions                       # 用于 @github 用户
-# collections:
-#   journey:
-#     output          : true
-#     permalink       : /journey/:path.html
+collections:
+  journey:
+    output          : true
+    permalink       : /journey/:path.html
   # design-mode: 
   #   output          : true
   #   permalink       : /design-mode/:path.html
