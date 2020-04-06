@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Technology
-description: 技术不只是工具，也可以是玩具
-keywords: 技术, tech
+title: Thoughts
+description: 想法，稍纵即逝
+keywords: 感悟, thought
 comments: false
 share: false
 repositories: false
 categories: true
 canvas: true
-menu: 技术
-permalink: /tech/
+menu: 感悟
+permalink: /thoughts/
 ---
 
 <div>

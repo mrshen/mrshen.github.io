@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Technology
+title: Journey
 description: 技术不只是工具，也可以是玩具
-keywords: 技术, tech
+keywords: 旅行, journey
 comments: false
 share: false
 repositories: false
 categories: true
 canvas: true
-menu: 技术
-permalink: /tech/
+menu: 旅行
+permalink: /journey/
 ---
 
 <div>
