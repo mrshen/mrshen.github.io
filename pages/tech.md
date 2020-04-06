@@ -2,13 +2,13 @@
 layout: page
 title: Technology
 description: 技术不只是工具，也可以是玩具
-keywords: 分类
+keywords: 技术, tech
 comments: false
 share: false
 repositories: false
 categories: true
 canvas: true
-menu: 分类
+menu: 技术
 permalink: /tech/
 ---
 
