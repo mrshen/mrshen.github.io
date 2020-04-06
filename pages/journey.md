@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: journey
 title: Journey
 description: 世界那么大，你应该跟爱的人一起去看看
 keywords: 旅行, journey
